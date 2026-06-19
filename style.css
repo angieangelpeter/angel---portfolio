@@ -1,0 +1,41 @@
+body{
+    font-family: Cambria, sans-serif;
+    margin:0;
+    padding:0;
+    background:#0F172A;
+    color:#F8FAFC;
+}
+
+header{
+    background:#1E293B;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+section{
+    background:#1E293B;
+    margin:20px;
+    padding:20px;
+    border-radius:12px;
+}
+
+h2{
+    color:#38BDF8;
+}
+
+a{
+    color:#22C55E;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#38BDF8;
+}
+
+footer{
+    background:#1E293B;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
